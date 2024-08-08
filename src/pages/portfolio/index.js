@@ -20,17 +20,15 @@ export const Portfolio = () => {
           </Col>
         </Row>
         <div className="mb-5 po_items_ho">
-          {dataportfolio.map((data, i) => {
-            return (
+          {dataportfolio.map((data, i) => (
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link} target="_blank" rel="noopener noreferrer">view project</a>
                 </div>
               </div>
-            );
-          })}
+          ))}
         </div>
       </Container>
     </HelmetProvider>

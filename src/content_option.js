@@ -135,67 +135,79 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "https://drive.google.com/file/d/1PLNrzYvYjn05c0whTA4Ji4ahq1lktIKo/view?usp=drive_link",
+const dataportfolio = [
+    {
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/BEBEK+VILLA+PROJECT/BA%C5%9ELIKK.jpg",
         description: "Bebek Villa Project",
         link: "https://drive.google.com/drive/folders/1KEp1qEXaXVq6Fc4T_kEiWOAwjRvMebCF?usp=drive_link",
     },
     {
-        img: 'https://drive.google.com/file/d/1PLNrzYvYjn05c0whTA4Ji4ahq1lktIKo/view?usp=sharing',
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: 'https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/CEM+YAVUZ+PROJECT/BAS%CC%A7LIKK.jpg',
+        description: "Levent Project.",
+        link: "https://drive.google.com/drive/folders/1bDoyOsMgV2ylTiOSiV0EmwUgYxheEygu?usp=drive_link",
     },
     {
-        img: "https://drive.google.com/file/d/1k6DAJbZgjcD76FKxpNukbrIkYK1S6Ve7/view?usp=drive_link",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://drive.google.com/file/d/1k6DAJbZgjcD76FKxpNukbrIkYK1S6Ve7/view?usp=drive_link",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/CORLU+VILLA+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Corlu Villa Project.",
+        link: "https://drive.google.com/drive/folders/10dJOvNuFKNU-6RZIwHzJ2oK9oMfB0Ucx?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/DARICA+KITCHEN+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Darica Kitchen Project.",
+        link: "https://drive.google.com/drive/folders/17qwg5k0-6FI1iczNhbJTZZiDnKhk-TRC?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/ENDU%CC%88STRI%CC%87YEL+U%CC%88RU%CC%88N+TASARIMI(ATARCH)/PAFTAA33.jpg",
+        description: "Industrial Product Design",
+        link: "https://drive.google.com/drive/folders/11CZRko0QMhSu0HNHCWiCGjJyzYmv9pc5?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/FACYO+RESTAURANT/BAS%CC%A7LIKK.jpg",
+        description: "Facyo Restaurant Project",
+        link: "https://drive.google.com/drive/folders/1xFEAHdzdtvKo7WYLzPOnhyDy1RKdwF25?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/FRAGMAN+BOUTIQUE+HOTEL/BAS%CC%A7LIK.jpg",
+        description: "Fragman Boutique Hotel Project",
+        link: "https://drive.google.com/drive/folders/1otgRgk6Dr0omqXMQrjSBklOXfbXbPNY0?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/FUAR+TASARIMI(TEMMER+MARBLE)/TEMMER+MARBLE+BAS%CC%A7LIK.jpg",
+        description: "Exhibition Designing Project",
+        link: "https://drive.google.com/drive/folders/15_J8zGeYgwPkbwKmBddTeLNT5qtIuGgm?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/GRAND+AYINTAP+REST/logo+son.jpg",
+        description: "Grand Ayintap Rest Project",
+        link: "https://drive.google.com/drive/folders/1EjtRV_Z5QsB7DB0_yd3jq2QlDdAxY6XM?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/ISTINYE+PROJECT+2/BAS%CC%A7LIKK.jpg",
+        description: "Istinye Project 2",
+        link: "https://drive.google.com/drive/folders/1kFWt7PeSgprMhmV2gSkbdKAdv0nEWbmA?usp=drive_link",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/ISTINYE+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Istinye Project",
+        link: "https://drive.google.com/drive/folders/118-uVBsXnAfJZDvSC1JfceOG7Y4ZT7sq?usp=drive_link",
     },
+    {
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/KILYOS+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Kilyos Project",
+        link: "https://drive.google.com/drive/folders/14Br4BxVIWEbXZbdOaN9mRx0fUqfg-_PT?usp=drive_link",
+    },{
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/KIRKKONAK+TARABYA+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Kirkkonak Tarabya Project",
+        link: "https://drive.google.com/drive/folders/18MPIYbx0xHNK5HK6ilMHmthTmt2Xl6qf?usp=drive_link",
+    },{
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/KURTKOY+PROJECT/BAS%CC%A7LIKK.jpg",
+        description: "Kurtkoy Project",
+        link: "https://drive.google.com/drive/folders/11lOwBNLQgYIg5mdNImK4bFVg09CZzVE3?usp=drive_link",
+    },{
+        img: "https://enes-portfolio-buckets.s3.eu-west-3.amazonaws.com/PORTFOLIO+I%CC%87C%CC%A7I%CC%87N/S%CC%A7ES%CC%A7HANE/PAUSE+BAS%CC%A7LIKK.jpg",
+        description: "Seshane Project",
+        link: "https://drive.google.com/drive/folders/17WBHkVcYgXGwojEDpWPIJ7O_HmlzOIHa?usp=drive_link",
+    }
 ];
 
 const contactConfig = {
